@@ -55,3 +55,5 @@ defaults:
         type: "qqGroupGuide"
     values:
         layout: markdownreader_bare
+
+theme: jekyll-theme-slate
